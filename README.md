@@ -10,5 +10,5 @@ Wybranie punktów centralnych w danej rundzie
 ![1](visualization.png)
 
 Spadek energii sieci po x rundach oraz liczba martwych węzłów
-![2](energy.png)
-![3](dead_nodes.png)
+![2](energy_of_network_and_dead_nodes.png)
+
